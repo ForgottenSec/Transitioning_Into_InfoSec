@@ -9,6 +9,7 @@ Key Points:
 * Join in infosec conversations on twitter
 * Play Infosec Challenges
 * Assist a open source project on github - both beta testing and documentation are huge
+* Blog what you learn
 
 ### [@ForgottenSec](https://www.twitter.com/ForgottenSec) 
 BSidesDE 2013 talk "Growing up in the InfoSec Community"
@@ -16,7 +17,6 @@ https://www.youtube.com/watch?v=XJqlhD42lzc
 
 BSidesDE 2015 talk "Building the Next Generation of InfoSec"
 https://www.youtube.com/watch?v=5sWSKsVCam0&t=3s
-
 
 ### [@Hacks4Pancakes](https://www.twitter.com/Hacks4Pancakes) 
 Awesome Blog posts on starting a career
