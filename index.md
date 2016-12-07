@@ -44,3 +44,13 @@ Most of what this awesome lady has done is focused on the subject.  I will post 
 https://smile.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM?ie=UTF8&sa-no-redirect=1
 * PVC Podcast 68, Her amazing story of joining infosec
 http://www.pvcsec.com/2016/06/07/pvcsec-68-tracy-maleeff/
+
+### [@Fabiothebest89](https://www.twitter.com/Fabiothebest89)
+https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit-how-not-to-suck-and-get-usdusd-hired-usdusd-fabio-baroni
+
+Technical Resources
+* Conference Video Links: https://www.irongeek.com
+* Conference Video Links: https://github.com/PaulSec/awesome-sec-talks
+* Pen Test Resources: http://pwnwiki.io/#!index.md
+* Pen Test Resources: https://github.com/enaqx/awesome-pentest/blob/master/README.md
+* Old list of InfoSec Resources: https://github.com/onlurking/awesome-infosec
