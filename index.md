@@ -1,4 +1,4 @@
-# Transitioning_Into_InfoSec#
+# Transitioning Into InfoSec
 
 So many people in Information Security create resources for students transitioning into the industry, but the struggle is to share them to Academia and anyone else trying to start out. Compiling those and sharing with Academia is the goal of this resource
 
@@ -48,6 +48,9 @@ http://www.pvcsec.com/2016/06/07/pvcsec-68-tracy-maleeff/
 
 ### [@Fabiothebest89](https://www.twitter.com/Fabiothebest89)
 https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit-how-not-to-suck-and-get-usdusd-hired-usdusd-fabio-baroni
+
+### [@0xGradius](https://www.twitter.com/0xGradius)
+* Similar Project: https://github.com/gradiuscypher/infosec_getting_started
 
 ## Technical Resources
 * Building a infosec lab: https://blindseeker.com/AVATAR/
