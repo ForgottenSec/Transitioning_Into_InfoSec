@@ -70,3 +70,6 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 
 ### Threat Intel
 * https://github.com/hslatman/awesome-threat-intelligence
+
+### Industrial Control Systems Security
+* Rob M Lee's intro resources http://www.robertmlee.org/a-collection-of-resources-for-getting-started-in-icsscada-cybersecurity/
