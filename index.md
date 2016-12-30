@@ -52,6 +52,9 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 ### [@0xGradius](https://www.twitter.com/0xGradius)
 * Similar Project: https://github.com/gradiuscypher/infosec_getting_started
 
+### [@mubix](https://www.twitter.com/mubix)
+* Similar Project: https://room362.com/start/
+
 ## Technical Resources
 * Building a infosec lab: https://blindseeker.com/AVATAR/
 * Conference Video Links: https://www.irongeek.com
