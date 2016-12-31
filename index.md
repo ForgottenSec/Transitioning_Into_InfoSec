@@ -25,13 +25,14 @@ Awesome Blog posts on starting a career
 * https://tisiphone.net/2016/08/26/starting-an-infosec-career-the-megamix-chapter-7/
 
 ### [@JohnnyLong](https://www.twitter.com/JohnnyLong)
-* https://books.google.com/books?id=HXbgHQUjPfgC&printsec=frontcover
+* InfoSec Career Hacking Book: https://books.google.com/books?id=HXbgHQUjPfgC&printsec=frontcover
 
 ### [@JaysonStreet](https://www.twitter.com/JaysonSTreet) 
 * https://www.youtube.com/watch?v=gde3W7cnKAo
 
 ### [@DanielMiessler](https://www.twitter.com/DanielMiessler) 
 * https://danielmiessler.com/blog/build-successful-infosec-career/#gs.OixB96U
+* Interview Questions: https://danielmiessler.com/study/infosec_interview_questions/
 
 ### Reddit 
 * https://www.reddit.com/r/netsec/wiki/start
@@ -41,13 +42,26 @@ CSO Online - Military Transitioning Into InfoSec
 * http://www.csoonline.com/article/3002605/leadership-management/hacked-opinions-veterans-who-transitioned-into-infosec.html
 
 ### [@infosecsherpa](https://www.twitter.com/infosecsherpa)  
-* Free Kindle eBook
+* Beginners Guide to Information Security: Kickstart your security career with insight from InfoSec experts(Free eBook)
 https://smile.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp/B01JTDDSAM?ie=UTF8&sa-no-redirect=1
 * PVC Podcast 68, Her amazing story of joining infosec
 http://www.pvcsec.com/2016/06/07/pvcsec-68-tracy-maleeff/
 
+## InfoSec Interviews 
+
 ### [@Fabiothebest89](https://www.twitter.com/Fabiothebest89)
 https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit-how-not-to-suck-and-get-usdusd-hired-usdusd-fabio-baroni
+
+### [@MyInfoSecJob](https://www.twitter.com/MyInfoSecJob)
+* http://www.myinfosecjob.com/2010/03/itinformation-security-interview-questions/
+
+### Sergio Caltagirone [@cnoresponse](https://www.twitter.com/CNOResponse)
+* Top 20 interview questions for SOC Analyst: http://www.activeresponse.org/20-questions-for-an-intrusion-analyst/
+
+### Jordan Potti [@ok_bye_now](https://www.twitter.com/ok_bye_now)
+* First Interview Advice: http://jordanpotti.com/2016/12/28/what-to-know-for-your-first-infosec-interview/
+
+## Similar Projects
 
 ### [@0xGradius](https://www.twitter.com/0xGradius)
 * Similar Project: https://github.com/gradiuscypher/infosec_getting_started
