@@ -47,7 +47,7 @@ https://smile.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp
 * PVC Podcast 68, Her amazing story of joining infosec
 http://www.pvcsec.com/2016/06/07/pvcsec-68-tracy-maleeff/
 
-## InfoSec Interviews 
+# InfoSec Interviews 
 
 ### [@Fabiothebest89](https://www.twitter.com/Fabiothebest89)
 https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit-how-not-to-suck-and-get-usdusd-hired-usdusd-fabio-baroni
@@ -61,7 +61,7 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 ### Jordan Potti [@ok_bye_now](https://www.twitter.com/ok_bye_now)
 * First Interview Advice: http://jordanpotti.com/2016/12/28/what-to-know-for-your-first-infosec-interview/
 
-## Similar Projects
+# Similar Projects
 
 ### [@0xGradius](https://www.twitter.com/0xGradius)
 * Similar Project: https://github.com/gradiuscypher/infosec_getting_started
@@ -69,7 +69,7 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 ### [@mubix](https://www.twitter.com/mubix)
 * Similar Project: https://room362.com/start/
 
-## Technical Resources
+# Technical Resources
 * Building a infosec lab: https://blindseeker.com/AVATAR/
 * Conference Video Links: https://www.irongeek.com
 * Conference Video Links: https://github.com/PaulSec/awesome-sec-talks
