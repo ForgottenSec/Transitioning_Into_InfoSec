@@ -61,6 +61,9 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 ### Jordan Potti [@ok_bye_now](https://www.twitter.com/ok_bye_now)
 * First Interview Advice: http://jordanpotti.com/2016/12/28/what-to-know-for-your-first-infosec-interview/
 
+### Marcelle [@marcelle_fsg](https://www.twitter.com/marcelle_fsg)
+* Networking advice from Marcelle: https://www.linkedin.com/pulse/kickstarting-your-career-cybersecurity-networking-marcelle-lee
+
 # Similar Projects
 
 ### [@0xGradius](https://www.twitter.com/0xGradius)
@@ -73,10 +76,14 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 * Building a infosec lab: https://blindseeker.com/AVATAR/
 * Conference Video Links: https://www.irongeek.com
 * Conference Video Links: https://github.com/PaulSec/awesome-sec-talks
+* Free Training https://www.opensecuritytraining.info
 * Free Training https://www.cybrary.it/
 * https://github.com/rmusser01/Infosec_Reference
 * Mind Maps http://www.amanhardikar.com/mindmaps.html
 * Old list of InfoSec Resources: https://github.com/onlurking/awesome-infosec
+
+### DFIR
+* http://www.dfir.training/index.php/lists/dfir-infographics
 
 ### Malware Analysis
 * https://github.com/rshipp/awesome-malware-analysis
