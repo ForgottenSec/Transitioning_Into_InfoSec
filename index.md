@@ -10,6 +10,7 @@ Key Points:
 * Play Infosec Challenges
 * Assist a open source project on github - both beta testing and documentation are huge
 * Blog what you learn
+* "Classroom will start a student down that path, but if they want to be really successful, learning self-learning is paramount, regardless of the field he chooses albiet the recommended pace for infosec self-learning is far more intense then any other field." - Forgotten
 
 ### [@ForgottenSec](https://www.twitter.com/ForgottenSec) 
 * BSidesDE 2013 talk "Growing up in the InfoSec Community"
