@@ -17,6 +17,8 @@ Key Points:
 https://www.youtube.com/watch?v=XJqlhD42lzc
 * BSidesDE 2015 talk "Building the Next Generation of InfoSec"
 https://www.youtube.com/watch?v=5sWSKsVCam0&t=3s
+* BSidesNoVA 2017 Panel "Parlaying Education and Experience into an Infosec Career"
+http://www.irongeek.com/i.php?page=videos/bsidesnova2017/205-panel-parlaying-education-and-experience-into-an-infosec-career-forgotten-sec
 
 ### [@Hacks4Pancakes](https://www.twitter.com/Hacks4Pancakes) 
 Awesome Blog posts on starting a career
