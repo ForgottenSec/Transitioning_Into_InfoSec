@@ -75,6 +75,9 @@ https://www.peerlyst.com/posts/cracking-the-infosec-interview-for-fun-and-profit
 ### [@mubix](https://www.twitter.com/mubix)
 * Similar Project: https://room362.com/start/
 
+### [@sneakymonk3y](https://www.twitter.com/sneakymonk3y)
+* Similar Project: https://www.sneakymonkey.net/2017/04/23/infosec-newbie/
+
 # Technical Resources
 * Building a infosec lab: https://blindseeker.com/AVATAR/
 * Conference Video Links: https://www.irongeek.com
