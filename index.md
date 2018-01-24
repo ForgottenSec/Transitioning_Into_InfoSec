@@ -50,6 +50,9 @@ https://smile.amazon.com/Beginners-Guide-Information-Security-Kickstart-ebook/dp
 * PVC Podcast 68, Her amazing story of joining infosec
 http://www.pvcsec.com/2016/06/07/pvcsec-68-tracy-maleeff/
 
+### [@Uncl3Dumby](https://www.twitter.com/Uncl3dumby)
+* Dumby's Journey into Security & Thoughts - https://securedumby.science/view-post/getting-into-security
+
 # InfoSec Interviews 
 
 ### [@Fabiothebest89](https://www.twitter.com/Fabiothebest89)
